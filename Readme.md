@@ -50,5 +50,5 @@ For `pulse_length = 1` (Full response), with `M_ary >2`, we may obtain an error 
 
 
 ## License
-© 2020-2021 Karim Kasan
+© 2020-2021 Karim Kassan
 
