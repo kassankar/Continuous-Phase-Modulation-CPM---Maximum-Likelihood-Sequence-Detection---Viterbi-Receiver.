@@ -57,11 +57,6 @@ Results Plot:
 ![](BER_GMSK.png?raw=true)
 ## Known bug
 For `pulse_length = 1` (Full response), with `M_ary >2`, we may obtain an error for some modulation indices.
-## Warning
-
-## Contributing ?
-
-
 ## License
 © 2020-2021 Karim Kassan
 
